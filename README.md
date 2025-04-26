@@ -1,4 +1,4 @@
-![My Profile Banner](./animated_banner.png)
+![My Profile Banner](./animated_banner.gif)
 
 # Hi, I'm **Codrin-Gabriel Lateș**
 
