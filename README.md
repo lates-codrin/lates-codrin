@@ -5,6 +5,7 @@
 [![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](http://latescodrin.com)
 [![Email Me](https://img.shields.io/badge/Email-latescodrin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:latescodrin@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-lates--codrin-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin)
+[![Donate](https://img.shields.io/badge/Buy%20me%20a%20coffee-ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/latescodrin)
 
 ---
 
