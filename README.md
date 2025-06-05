@@ -50,7 +50,10 @@
 [![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/MyScheduler)
 
 ---
+📚 [Library Management System](https://github.com/lates-codrin/Library-Management)
+- 📖 An administrative tool built for the sole purpose of managing a library.
 
+---
 ### ✈️ [Airport Plane Manager](https://github.com/lates-codrin/airport-plane-manager)
 - ✨ CRUD management and visualization for planes and passengers.
 - 📊 GUI designed with **CustomTkinter**.
