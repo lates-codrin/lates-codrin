@@ -1,30 +1,48 @@
-<img src="./assets/codrin-banner.gif" alt="Codrin-Gabriel Lateș, AI Full-Stack Engineer" width="100%" />
+<img src="./assets/codrin-banner.gif" alt="Codrin-Gabriel Lateș" width="100%" />
 
-# Hi, I'm Codrin
+## Hey 👋, I'm Codrin
 
-I'm a computer science student at Babeș-Bolyai University in Cluj-Napoca. I mostly build backend and full-stack things with an AI angle, and I'm getting more into security.
+CS student at Babeș-Bolyai in Cluj-Napoca, building things with code and breaking them (on purpose) for fun.
 
-**Right now**
-- Volunteer pentester and contributor at Kontra, working on exploit mitigation and anti-cheat for an FPS game with 4M+ visits.
-- Building MirageSoftworks, a Rust/Luau toolset for packaging and protecting Roblox games.
+[![Website](https://img.shields.io/badge/latescodrin.com-7559E8?style=flat-square)](https://latescodrin.com)
+[![Email](https://img.shields.io/badge/latescodrin@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:latescodrin@gmail.com)
 
-**Before**
-- **Siemens Digital Industries Software** (Apr–Jul 2026): AI full-stack intern on an AI-assisted CAD platform. Connected Java services to Python AI agents over RabbitMQ.
-- **Raiffeisen Bank** (Jan–Apr 2026): AI full-stack intern and technical lead for a team of four. We built an AI banking app with RAG and a conversational agent.
+## ⚡ A Few Quick Facts
 
-## Projects
+- 🔭 I'm currently working on [MirageSoftworks](https://github.com/lates-codrin), a Rust/Luau toolset for Roblox games.
+- 🛡️ I spend a lot of time on game security and anti-cheat.
+- 🌱 Learning about **developer tools**, **security**, and **automation**.
+- 🧩 Most of my projects are in my [repositories](https://github.com/lates-codrin?tab=repositories).
+- 💬 Ping me about **AI agents**, **backends**, and **security** stuff.
+- 🌐 Fun fact: vorbesc și română. 🇷🇴
+- ☕ Fuelled by: *(your fave drink / game / song here)*
 
-- [**MyScheduler**](https://github.com/lates-codrin/MyScheduler): Android app for university timetables, backed by my own FastAPI service.
-- [**Lex-Advisor Scraper**](https://github.com/lates-codrin/lex-advisor-scraper): async document scraper with FastAPI, RabbitMQ and Redis.
-- [**Library Management**](https://github.com/lates-codrin/Library-Management): C# desktop app with AI book recommendations.
-- [**Schedule Monitor**](https://github.com/lates-codrin/ScheduleMonitor): watches academic schedules for changes and outputs JSON.
+## 🚀 Tools I Use
 
-More on [my repositories page](https://github.com/lates-codrin?tab=repositories).
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white)
 
-## Stack
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 
-Python, Java, TypeScript, C#, C++, Luau, SQL · FastAPI, Spring Boot, RabbitMQ, PostgreSQL · React, Capacitor · LangChain, MCP · Docker
+## 📌 Stuff I've Made
 
-## Contact
+- [**MyScheduler**](https://github.com/lates-codrin/MyScheduler): Android app for university timetables
+- [**Library Management**](https://github.com/lates-codrin/Library-Management): C# desktop app with AI book recs
+- [**Schedule Monitor**](https://github.com/lates-codrin/ScheduleMonitor): tracks timetable changes
+- [**Airport Plane Manager**](https://github.com/lates-codrin/airport-plane-manager): small Python app for managing flights
 
-[latescodrin.com](https://latescodrin.com) · [latescodrin@gmail.com](mailto:latescodrin@gmail.com)
+<sub>Don't forget to touch grass 🌱</sub>
