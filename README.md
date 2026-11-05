@@ -9,13 +9,10 @@ CS student at Babeș-Bolyai in Cluj-Napoca, building things with code and breaki
 
 ## ⚡ A Few Quick Facts
 
-- 🔭 I'm currently working on [MirageSoftworks](https://github.com/lates-codrin), a Rust/Luau toolset for Roblox games.
-- 🛡️ I spend a lot of time on game security and anti-cheat.
 - 🌱 Learning about **developer tools**, **security**, and **automation**.
 - 🧩 Most of my projects are in my [repositories](https://github.com/lates-codrin?tab=repositories).
 - 💬 Ping me about **AI agents**, **backends**, and **security** stuff.
 - 🌐 Fun fact: vorbesc și română. 🇷🇴
-- ☕ Fuelled by: *(your fave drink / game / song here)*
 
 ## 🚀 Tools I Use
 
