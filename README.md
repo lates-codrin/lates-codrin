@@ -39,14 +39,11 @@ CS student at Babeș-Bolyai in Cluj-Napoca, building things with code and breaki
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![MCP](https://img.shields.io/static/v1?label=&message=MCP&color=202020&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![IDA Pro](https://img.shields.io/static/v1?label=&message=IDA%20Pro&color=2B5797&style=flat-square)
-![Fiddler](https://img.shields.io/static/v1?label=&message=Fiddler&color=5C2D91&style=flat-square)
 
 ## 📌 Stuff I've Made
 
