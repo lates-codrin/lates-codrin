@@ -1,102 +1,135 @@
-![My Profile Banner](https://i.imgur.com/YAGfQL4.gif)
+<div align="center">
 
-# Hi, I'm **Codrin-Gabriel Lateș**
+<img src="./assets/codrin-banner.gif" alt="Animated pixel-art coding desk banner: Codrin-Gabriel Lateș — AI Full-Stack Engineer" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge&logo=google-chrome)](http://latescodrin.com)
-[![Email Me](https://img.shields.io/badge/Email-latescodrin@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:latescodrin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-lates--codrin-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin)
-[![Donate](https://img.shields.io/badge/Buy%20me%20a%20coffee-ko--fi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/latescodrin)
+### Building the bridge between AI and real-world software.
 
----
+**AI Full-Stack Engineer** · **Computer Science @ UBB** · **Cluj-Napoca, Romania**
 
-## 👩‍🎓 About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-latescodrin.com-7559E8?style=flat-square&logo=googlechrome&logoColor=white)](https://latescodrin.com)
+[![Email](https://img.shields.io/badge/Email-Let's_talk-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:latescodrin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-lates--codrin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lates-codrin)
 
-- 👩‍🏫 **Computer Science Student** @ [UBB Cluj-Napoca](https://www.cs.ubbcluj.ro/)
-- 🔢 Passionate about **APIs, Automation, Software Development**, and **Data Visualization**.
-- 🚀 Always exploring new technologies and improving my skills!
+</div>
 
 ---
 
-## 🔍 Tech Stack
+### `> whoami`
 
-### 💻 Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+I like building things **end to end**: from AI agents and event-driven services to the interfaces people actually use. My work has taken me through **AI-assisted CAD**, **intelligent banking**, **developer tooling**, and **game security**. I care about architecture, performance, and making complex systems feel simple.
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+```ts
+const currentFocus = {
+  engineering: ["AI agents", "distributed backends", "full-stack products"],
+  exploring:   ["developer tools", "security", "automation"],
+  building:    "MirageSoftworks · Rust / Luau tooling",
+  studying:    "BSc Computer Science · Babeș-Bolyai University",
+};
+```
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+### ⚡ Where I've worked
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+| | Work that mattered |
+| :-- | :-- |
+| **Siemens Digital Industries Software** <br> `AI Full-Stack Engineering Intern` · Apr–Jul 2026 | Built components of an **AI-powered CAD platform**, connected Java services with Python AI agents through **RabbitMQ**, and developed geometry-processing pipelines. Worked with **LangChain, MCP, and Langfuse**. |
+| **Raiffeisen Bank** <br> `AI Full-Stack Engineering Intern · Technical Lead` · Jan–Apr 2026 | **Led a team of four** building an AI-driven banking product. Designed its architecture, developed React/Capacitor and backend services, integrated **RAG and conversational agents**, and deployed containerized microservices. |
+| **Kontra** <br> `Volunteer Penetration Tester & Contributor` · Sep 2026–present | Build and secure systems for an FPS game with **4M+ visits**. Work on exploit mitigation, anti-cheat, gameplay systems, and visibility optimization. |
+
+### 🧩 Things I'm building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🛠️ MirageSoftworks**  
+*Developer tooling · In progress*
+
+A Rust/Luau toolset for Roblox game packaging and code protection, with static/network analyzers and planned editor integrations.
+
+`Rust` `Luau` `Tooling` `Static analysis`
+
+</td>
+<td width="50%" valign="top">
+
+**🔎 Lex-Advisor Scraper**  
+*Distributed document ingestion*
+
+Async crawling and document extraction with **FastAPI**, **RabbitMQ**, and **Redis**; incremental indexing, signed webhooks, and hardened scraping.
+
+`Python` `FastAPI` `PostgreSQL` `Docker`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📱 [MyScheduler](https://github.com/lates-codrin/MyScheduler)**  
+*Android app + university data API*
+
+Android academic scheduling backed by a custom FastAPI service and structured data extracted from university timetables.
+
+`Android` `FastAPI` `BeautifulSoup` `Pandas`
+
+</td>
+<td width="50%" valign="top">
+
+**📚 [Library Management](https://github.com/lates-codrin/Library-Management)**  
+*Desktop application*
+
+C# MVVM library management with **AI-powered book recommendations** based on book titles and descriptions.
+
+`C#` `MVVM` `OpenAI`
+
+</td>
+</tr>
+</table>
+
+**A few more repositories:** [Schedule Monitor API](https://github.com/lates-codrin/ScheduleMonitor) · [Airport Plane Manager](https://github.com/lates-codrin/airport-plane-manager) · [All repositories](https://github.com/lates-codrin?tab=repositories)
+
+### ⚙️ Toolbox
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-0088FF?style=flat-square&logo=robloxstudio&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI, backend & messaging**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-202020?style=flat-square&logo=probot&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Apps, infrastructure & security**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+
+<details>
+<summary><b>📌 More about me</b></summary>
+<br>
+
+- 🎓 **BSc in Computer Science**, Babeș-Bolyai University (2024–present); also pursuing the teacher-training programme (DPPD).
+- 🏁 Finished in the **top 25%** at the 42nd Cloudflight Coding Contest (October 2026).
+- 🌍 Romanian (native) and English (fluent).
+- 🔐 Interested in the space where full-stack engineering, applied AI, and security overlap.
+
+</details>
+
 ---
 
-## 📅 Recent Projects
+<div align="center">
 
-### 🚀 [Schedule Monitor API](https://github.com/lates-codrin/ScheduleMonitor)
-- ✨ Monitors changes in academic schedules and outputs JSON.
-- 📚 Built with **FastAPI, BeautifulSoup, Pandas**.
+**Have an interesting problem to solve?** [Let's talk](mailto:latescodrin@gmail.com) · [Explore my portfolio](https://latescodrin.com)
 
-[![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/ScheduleMonitor)
+<sub>Made with curiosity, caffeine, and a healthy respect for clean architecture.</sub>
 
----
-
-### 📱 [MyScheduler Mobile App](https://github.com/lates-codrin/MyScheduler)
-- ✨ Kotlin Android app fetching real-time university information.
-- 🌐 Powered by a custom **FastAPI** backend.
-
-[![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/MyScheduler)
-
----
-### 📚 [Library Management System](https://github.com/lates-codrin/Library-Management)
-- 📖 An administrative tool built for the sole purpose of managing a library.
-
-[![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/Library-Management)
-
----
-### ✈️ [Airport Plane Manager](https://github.com/lates-codrin/airport-plane-manager)
-- ✨ CRUD management and visualization for planes and passengers.
-- 📊 GUI designed with **CustomTkinter**.
-
-[![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/airport-plane-manager)
-
----
-
-### 🔐 [Caesar Cipher](https://github.com/lates-codrin/Caesar-Cipher)
-- ✨ Message encryption/decryption with interactive pie chart visualization.
-- 📈 Developed with **Qt Creator QML**.
-
-[![View Project](https://img.shields.io/badge/Visit%20Repository-181717?style=for-the-badge&logo=github)](https://github.com/lates-codrin/Caesar-Cipher)
-
----
-
-## 🌐 Languages
-
-- 🌐 Romanian (Native)
-- 🇬🇧 English (B2 - Independent User)
-
----
-
-## 📚 Education
-
-I study at
-**Facultatea de Matematică și Informatică**  
-**Universitatea Babeș-Bolyai, Cluj-Napoca**  
-
-
-### Thanks for visiting my profile! 🙌 For inquiries, contact me at `latescodrin@gmail.com`.
+</div>
