@@ -41,5 +41,3 @@ CS student at Babeș-Bolyai in Cluj-Napoca, building things with code and breaki
 - [**Library Management**](https://github.com/lates-codrin/Library-Management): C# desktop app with AI book recs
 - [**Schedule Monitor**](https://github.com/lates-codrin/ScheduleMonitor): tracks timetable changes
 - [**Airport Plane Manager**](https://github.com/lates-codrin/airport-plane-manager): small Python app for managing flights
-
-<sub>Don't forget to touch grass 🌱</sub>
